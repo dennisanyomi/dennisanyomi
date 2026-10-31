@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**dennisanyomi/dennisanyomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dennis
 
-Here are some ideas to get you started:
+Computer science student in Accra, Ghana. I learn by shipping: Python, C++ and the web, with a growing habit of wiring programs to live APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- 🌦️ **[Weather Checker](https://github.com/dennisanyomi/weather-app)**: a desktop app that chains two APIs to show live weather for any city (Python, tkinter, Open-Meteo)
+- 💸 **Susu savings website**: a Django site for a rotating savings circle of 10 friends
+- 📈 **Forex strategy**: learning the markets and building a rule-based trading strategy
+- 📚 **Learning next**: C++, networking and more APIs
+
+## Find me
+E-mail : realdennis.anyomi@gmail.com
+📍 Accra, Ghana (GMT) · 🔗 [github.com/dennisanyomi](https://github.com/dennisanyomi)
