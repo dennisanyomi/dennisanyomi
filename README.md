@@ -1,7 +1,7 @@
 
 # Hi, I'm Dennis
 
-Computer science student in Accra, Ghana. I learn by shipping: Python, C++ and the web, with a growing habit of wiring programs to live APIs.
+Computer science student in Ghana Communication Technology University, Accra, Ghana. I learn by shipping: Python, C++ and the web, with a growing habit of wiring programs to live APIs.
 
 ## What I'm working on
 
